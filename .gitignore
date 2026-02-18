@@ -1,3 +1,7 @@
+*.parquet
+
+data/wmt_de_en/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -70,6 +74,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+
 
 # PyBuilder
 .pybuilder/
